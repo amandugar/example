@@ -42,7 +42,7 @@ html,body{
 .main-section-heading{
     position: absolute;
     top: 65%;
-    font-family: 'Parisienne', cursive;
+    font-family: 'Great Vibes', cursive;
     width: 100%;
     text-align: center;
 }
@@ -93,11 +93,14 @@ html,body{
     margin-top: -6.4vh;
     width: 60%;
     margin-left: 20%;
-    height: 10vh;
-    font-size: 5vh;
+    height: auto;
+    font-size: 4rem;
     text-align: center;
     padding: 0;
-    font-family: 'Parisienne', cursive;
+    font-family: 'Great Vibes', cursive;
+}
+.card-body-1 p{
+    height: auto;
 }
 
 .card-text-1{
@@ -121,7 +124,7 @@ html,body{
 }
 
 .latest-post-heading{
-    font-family: 'Parisienne', cursive;
+    font-family: 'Great Vibes', cursive;
     font-size: 6vh;
     text-align: left;
 }
@@ -137,14 +140,14 @@ html,body{
 }
 .social-heading{
     text-align: center;
-    height: 10vh;
+    height: auto;
     padding-top: 2vh;
     margin:4%;
     background-color:#e7d6bd;
 }
 .social-heading h5{
-    font-size: 3.3vh;
-    font-family: 'Parisienne', cursive;
+    font-size: 4rem;
+    font-family: 'Great Vibes', cursive;
 }
 
 .social-icons{
@@ -152,7 +155,7 @@ html,body{
     font-size: 1.5rem;
 }
 .suscribe-heading{
-    font-family: 'Parisienne', cursive;
+    font-family: 'Great Vibes', cursive;
     padding-top: 2%;
 }
 .suscribe-container{
@@ -178,10 +181,18 @@ html,body{
 
 .heading-instagram{
     padding: 3%;
-    font-family: 'Parisienne', cursive;
+    font-family: 'Great Vibes', cursive;
 }
 
 .button-form{
     width: 50%;
     float: left;
+}
+@media (max-width:780px){
+    .card-body-1{
+        font-size: 2rem;
+    }
+    .social-heading h5{
+        font-size: 2rem ;
+    }
 }
