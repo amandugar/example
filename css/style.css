@@ -1,7 +1,7 @@
 html,body{
     width: 100%;
     height: 100%;
-    font-family: corbel;
+    font-family: 'Gudea', sans-serif;
 }
 .navbar-dark1{
     background-color: transparent;
@@ -42,7 +42,7 @@ html,body{
 .main-section-heading{
     position: absolute;
     top: 65%;
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
     width: 100%;
     text-align: center;
 }
@@ -63,7 +63,7 @@ html,body{
     padding: 5.5% 4%;
     align-content: center;
     text-align: justify;
-    font-size: 2.3vh;
+    font-size: 2vh;
     color: #e7d6bd ;
 }
 
@@ -94,10 +94,10 @@ html,body{
     width: 60%;
     margin-left: 20%;
     height: 10vh;
-    font-size: 4.4vh;
+    font-size: 5vh;
     text-align: center;
     padding: 0;
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
 }
 
 .card-text-1{
@@ -121,7 +121,7 @@ html,body{
 }
 
 .latest-post-heading{
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
     font-size: 6vh;
     text-align: left;
 }
@@ -144,7 +144,7 @@ html,body{
 }
 .social-heading h5{
     font-size: 3.3vh;
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
 }
 
 .social-icons{
@@ -152,7 +152,7 @@ html,body{
     font-size: 1.5rem;
 }
 .suscribe-heading{
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
     padding-top: 2%;
 }
 .suscribe-container{
@@ -178,7 +178,7 @@ html,body{
 
 .heading-instagram{
     padding: 3%;
-    font-family: "Lucida Calligraphy",sans-serif;
+    font-family: 'Parisienne', cursive;
 }
 
 .button-form{
